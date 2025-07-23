@@ -16,6 +16,14 @@ h5{
 h6{
     color: brown;
 }
-body{
+/* body{
     background-color: yellowgreen
+} */
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
 }
